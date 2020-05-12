@@ -37,7 +37,7 @@ namespace showmeminmaxnumber
 
             Console.WriteLine("-------------------------------------");
             Console.WriteLine("가장 큰 수 : "+max);
-            Console.WriteLine("가장 큰 수 : " + max);
+            Console.WriteLine("가장 작은 수 : " + min);
 
         }
     }
